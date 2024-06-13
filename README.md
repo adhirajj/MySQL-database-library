@@ -1,2 +1,5 @@
-# MySQL-database-library
-This mimics an online library system and how it stores it's data using databases
+-	MySQL and Python Database Library
+- 1. Developed a feature-rich, menu-driven program seamlessly integrating MySQL Database Connectivity with Python, showcasing expertise in database management and programming languages.
+- 2. Designed and implemented a robust database system emulating an online bookstore/library, demonstrating strong skills in data modeling, database schema design, and data storage optimization.
+- 3. Leveraged Python to establish a secure connection with the MySQL database, enabling efficient data input, storage, and retrieval, highlighting proficiency in database connectivity and data management.
+- 4. Implemented a comprehensive set of functions, including adding, editing, and removing data, providing a user-friendly interface for seamless database manipulation and showcasing strong problem-solving abilities.
